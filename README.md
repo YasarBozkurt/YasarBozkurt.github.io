@@ -1,2 +1,2 @@
-# a.github.io
+# yasarbozkurt.github.io
 Kişisel Portfolyo
