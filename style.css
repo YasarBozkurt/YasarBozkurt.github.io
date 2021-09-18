@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url("https://source.unsplash.com/1600x900/?nature,water") no-repeat center;
+    background-image: url("https://1.bp.blogspot.com/-YED-fUKmavg/YUXUSyjChAI/AAAAAAAADJo/5Gt9oCUa_3gjGelMqTDjVqjj75opT1EEQCLcBGAsYHQ/s1680/banner.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
